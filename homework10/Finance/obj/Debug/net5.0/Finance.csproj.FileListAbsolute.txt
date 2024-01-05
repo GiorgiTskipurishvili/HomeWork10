@@ -1,0 +1,16 @@
+C:\Users\User\OneDrive\Desktop\HomeWork10\homework10\Finance\bin\Debug\net5.0\Finance.exe
+C:\Users\User\OneDrive\Desktop\HomeWork10\homework10\Finance\bin\Debug\net5.0\Finance.deps.json
+C:\Users\User\OneDrive\Desktop\HomeWork10\homework10\Finance\bin\Debug\net5.0\Finance.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\HomeWork10\homework10\Finance\bin\Debug\net5.0\Finance.runtimeconfig.dev.json
+C:\Users\User\OneDrive\Desktop\HomeWork10\homework10\Finance\bin\Debug\net5.0\Finance.dll
+C:\Users\User\OneDrive\Desktop\HomeWork10\homework10\Finance\bin\Debug\net5.0\Finance.pdb
+C:\Users\User\OneDrive\Desktop\HomeWork10\homework10\Finance\obj\Debug\net5.0\Finance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\HomeWork10\homework10\Finance\obj\Debug\net5.0\Finance.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\HomeWork10\homework10\Finance\obj\Debug\net5.0\Finance.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\HomeWork10\homework10\Finance\obj\Debug\net5.0\Finance.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\HomeWork10\homework10\Finance\obj\Debug\net5.0\Finance.sourcelink.json
+C:\Users\User\OneDrive\Desktop\HomeWork10\homework10\Finance\obj\Debug\net5.0\Finance.dll
+C:\Users\User\OneDrive\Desktop\HomeWork10\homework10\Finance\obj\Debug\net5.0\refint\Finance.dll
+C:\Users\User\OneDrive\Desktop\HomeWork10\homework10\Finance\obj\Debug\net5.0\Finance.pdb
+C:\Users\User\OneDrive\Desktop\HomeWork10\homework10\Finance\obj\Debug\net5.0\Finance.genruntimeconfig.cache
+C:\Users\User\OneDrive\Desktop\HomeWork10\homework10\Finance\obj\Debug\net5.0\ref\Finance.dll
